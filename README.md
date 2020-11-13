@@ -27,7 +27,6 @@ limitations..
   the accounts should already be there in the bank class
   the note type must be same for all the notes
    There is sql exception error occurs. ive written the  maximum code but somewhere there is some connection mistake(like more connections i tried but havent figured it out).if the sqlite error gets away the code runs for all cases.
-   >>>one more thing after selecting from menu we should again type the values of atm setup.
 
 atm as the major class links all the classes
 transaction class which will have the minimum details for the transaction
