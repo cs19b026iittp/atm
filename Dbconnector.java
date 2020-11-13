@@ -26,7 +26,7 @@ public  class Dbconnector {
         Connection conn = null;
         try {
             Class.forName("org.sqlite.JDBC");
-            conn = DriverManager.getConnection("jdbc:sqlite:atm.db");
+            conn = DriverManager.getConnection("jdbc:sqlite:cont.db");
             System.out.println("connected");
         } catch (Exception e) {
             e.printStackTrace();
