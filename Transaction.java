@@ -19,7 +19,7 @@ public abstract class Transaction {
         this.accountnumber = accountnumber;
         this.bank = bank;
         this.pin = pin;
-        this.atm1 = new Atm();
+      //  this.atm1 = new Atm();
         this.phn = phn;
     }
 
